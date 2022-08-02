@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tin
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning BAS in Application Development
+- 🌱 I’m currently pursuing BAS in Application Development
 - 💞️ I’m looking to collaborate on building an awesome world
 - 📫 How to reach me at nhattin55@gmail.com
 
