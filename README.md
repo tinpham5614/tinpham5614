@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tin Pham
+Hi ![176309783-0785949b-9127-417c-8b55-ab5a4333674e](https://github.com/tinpham5614/tinpham5614/assets/72054441/815a9ca5-1c06-4128-a8c8-633dce09730f)
+ My name is Tin Pham
 ================================================================================================================================
 
 Full Stack Developer
@@ -7,6 +8,7 @@ Full Stack Developer
 A software development student seeking an internship to apply skills in Java, Python, JavaScript, and SQL. Proficient in various tools such as IntelliJ, Visual Studio Code, MySQL, and Android Studio. Experienced in full-stack web development, mobile app development, and cloud computing. Seeking a challenging and rewarding internship experience.
 
 * 🌍  I'm based in Seattle, WA
+* 🖥️  See my portfolio at [tinp.netlify.app/](http://tinp.netlify.app/)
 * ✉️  You can contact me at [nhattin55@gmail.com](mailto:nhattin55@gmail.com)
 * 🚀  I'm currently working on [Belinda's Closet Application](http://github.com/SeattleColleges/belindas-closet-android)
 * 🧠  I'm learning ReactJS, NextJS and NestJS
